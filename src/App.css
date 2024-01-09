@@ -1,0 +1,22 @@
+.FirstContainer{
+  display: flex;
+
+}
+
+
+.SecondContainer{
+  width: 100%;
+}
+
+.post{
+  width: 80%;
+  margin: 0px 10%;
+}
+.posts{
+  width: 500px;
+}
+.react{
+  padding: 2px 10px;
+  font-size: 13px;
+  margin-top: 10%;
+}
